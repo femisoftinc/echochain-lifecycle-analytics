@@ -4,20 +4,16 @@
 
 Transform Silver Layer into business-ready analytical tables.
 
-## Tasks Completed
-
-- Loaded Silver Delta tables
-- Created Brand Summary table
-- Created Warranty Summary table
-- Created Price Category Summary table
-- Saved Gold Delta tables
-- Verified Gold tables
-
-## Gold Tables
+## Gold Tables Created
 
 - gold_brand_summary
 - gold_warranty_summary
 - gold_price_summary
+- gold_brand_resale
+- gold_warranty_analysis
+- gold_executive_kpi
+- gold_brand_market_share
+- gold_dashboard_metrics
 
 ## Technologies
 
